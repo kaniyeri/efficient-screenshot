@@ -1,5 +1,7 @@
 # efficient-screenshot
-[Requires mss and keyboard (python package)]
+[Requires mss and keyboard (python package) ; installed automatically with setup.py]
+
+
 ## Run setup.py for installing the prerequisites.
 This script will make it easier to take multiple screenshots. 
 
