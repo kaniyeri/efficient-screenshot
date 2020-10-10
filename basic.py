@@ -2,6 +2,7 @@ import keyboard
 from mss import mss
 import datetime
 
+print("Press Ctrl to take a screenshot.\nThe screenshot will be saved to the folder where the script exists.\nPress Esc to close this application.\nCurrent Date and Time:- ",datetime.datetime.today(),"\n")
 count = 0
 partial_filename = str(datetime.datetime.now())
 for item in ["." , " " ,":"]:
