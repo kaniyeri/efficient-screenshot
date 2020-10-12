@@ -1,5 +1,6 @@
 # efficient-screenshot
 ## Press Ctrl to take screenshots (automatically saved a new folder with a timestamp)
+Press Esc to exit.
 
 Requires python libraries keyboard and mss. Run setup.py for automatic install.
 
