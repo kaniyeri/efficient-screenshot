@@ -8,3 +8,5 @@ Run basic.py and switch to the desired window. Everytime Ctrl is pressed a scree
 Folder name scheme - [(current date)--(current time)]
 
 Note - The time used is the one at launch of the script, all screenshots taken during a single script launch is saved to ONE folder. This is by design, restart the script to create a new folder for easy categorization.
+
+Read https://kaniyeri.github.io/2020-11-16-efficient-screenshot/ for more.
